@@ -1,0 +1,25 @@
+# Planilha baixada em runtime
+nc_bcms.xlsx
+*.xlsx
+
+# Bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
